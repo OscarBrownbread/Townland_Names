@@ -8,7 +8,7 @@ Firstly, I'm a python noob, so don't be surprised if my code is dumb or ineffici
 I will not do any mass improt to OSM as there can be many reasons for 'unique' entries.
 This resulting list of unique entries in OSM should be manually checked if it is a typo, hopefully with help of OSM community.
 I also created a Wiki section for guidelines about this:
-https://wiki.openstreetmap.org/wiki/Ireland/Mapping_Townlands#Guidelines_for_Correcting_Typos_in_Boundary_Names:
+https://wiki.openstreetmap.org/wiki/Ireland/Mapping_Townlands#Naming_Townlands_and_Other_Boundaries
 
 Program also identifies some of the reasons why a unique entry may occur.
 For exampple, It can identify X_North townlands and (I hope to add) checking for Xnorth and so on.
