@@ -14,7 +14,7 @@ Words_time = [' Old', ' New', ' English', ' Irish']
 StructureWords=Words_time + Words_irish + Words_type + Words_geography
 
 #Further check: Xmore, X (East), 
-for TL in df.loc[0:2300,'NAME_TAG1']:
+for TL in df.loc[:,'NAME_TAG1']:
 
     #Check name ANYWHERE in column
     #found= df['Logainm_name'].str.find(TL) ; #print(found)
