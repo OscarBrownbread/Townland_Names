@@ -1,9 +1,7 @@
 # Townland_Names
 Processes the names of Irish Townlands for openstreetmap.org (OSM). Tries to identify typos and consolidate Townland names. 
 
-Main goal is to identify typos in Townland names by comparing to other databases and identifing 'unique' entries in OSM.
-
-Firstly, I'm a python noob, so don't be surprised if my code is dumb or inefficient. Suggestions and improvements are welcome.
+Main goal is to identify typos in Townland names by comparing to other databases and identifing 'unique' entries in OSM. Suggestions and improvements are welcome.
 
 I will not do any mass improt to OSM as there can be many reasons for 'unique' entries.
 This resulting list of unique entries in OSM should be manually checked if it is a typo, hopefully with help of OSM community.
